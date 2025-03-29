@@ -27,3 +27,12 @@ a:link {
     height: 10pt;
     display: table-row;
 }
+
+.subtext {
+    font-size: 7pt;
+    color: #828282;
+}
+
+.spacer {
+    height: 5pt;
+}
