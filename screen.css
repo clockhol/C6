@@ -1,4 +1,29 @@
 /* Add screen styles below */
-a.active {
-    font-weight: bold;
+
+
+table {
+    border-spacing: 2px;
+    line-height: 12pt;
+    height: 10px;
+    }
+
+td {
+    font-family: Verdana, sans-serif;
+    font-size: 10pt;
+    color: #828282;
+}
+
+.sitestr {
+    color: #828282;
+    font-size: 8pt;
+}
+
+a:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+.pagespace {
+    height: 10pt;
+    display: table-row;
 }
