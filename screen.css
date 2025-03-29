@@ -1,5 +1,9 @@
 /* Add screen styles below */
 
+.hmain {
+    margin-left: 1pt;
+    margin-right: 5pt;
+}
 
 table {
     border-spacing: 2px;
